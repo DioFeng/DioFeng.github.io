@@ -1,2 +1,6 @@
 # CS386 - Portfolio 
-# Career Mentoring and Professional Identity Development
+Career Mentoring and Professional Identity Development
+
+# Reflections
+- #1
+# Mentoring
