@@ -10,11 +10,12 @@ Career Mentoring and Professional Identity Development
 - Love gym, video games, and dogs 🐕
 
 # Reflections
-- [#1](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%231.md)
+- [#Reflection 1](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%231.md)
 - [#2](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%232.md)
 - [#3](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%233.md)
 - [#4](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%234.md)
 - [#5](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%235.md)
+- [#Reflection 2](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%236.md)
 # Mentoring
 - First meeting - Sep 29th
 
