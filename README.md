@@ -16,6 +16,7 @@ Career Mentoring and Professional Identity Development
 - [#4](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%234.md)
 - [#5](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%235.md)
 - [#Reflection 2](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%236.md)
+- [#6](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%237.md)
 # Mentoring
 - First meeting - Sep 29th
 
