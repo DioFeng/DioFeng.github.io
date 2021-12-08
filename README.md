@@ -18,6 +18,9 @@ Career Mentoring and Professional Identity Development
 - [#Reflection 2](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%236.md)
 - [#6](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%237.md)
 - [#7](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%238.md)
+- [#8 - Final Mentor Reflection](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%239.md)
+
+(To be added)
 - [CS Events - CS Department](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/Event%231.md)
 - [CS Events - University](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/Event%232.md)
 - [CS Events - Bay Area/Tech Communities](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/Event%233.md)
