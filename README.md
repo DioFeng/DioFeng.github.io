@@ -21,11 +21,11 @@ Career Mentoring and Professional Identity Development
 - [#8 - Final Mentor Reflection](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/%239.md)
 
 Event Reflections
-- [Docs](https://docs.google.com/document/d/17HYbPCgvWv8XrTwRDK9bHhL2ju0m6s1FVZy0AoFPtLc/edit)
-- [CS Events - CS Department](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/Event%231.md)
-- [CS Events - University](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/Event%232.md)
-- [CS Events - Bay Area/Tech Communities](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/Event%233.md)
-- [CS Events - 20th Annual CS Night](https://github.com/DioFeng/DioFeng.github.io/blob/master/Reflections/Event%234.md)
+- [4 in one](https://docs.google.com/document/d/17HYbPCgvWv8XrTwRDK9bHhL2ju0m6s1FVZy0AoFPtLc/edit)
+- [CS Events - CS Department]
+- [CS Events - University]
+- [CS Events - Bay Area/Tech Communities]
+- [CS Events - 20th Annual CS Night]
 
 # Mentoring
 - First meeting - Sep 29th
