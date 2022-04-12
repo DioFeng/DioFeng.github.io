@@ -6,7 +6,7 @@ Career Mentoring and Professional Identity Development
 - Junior CS student at USFCA 💻
 - Currently working as a TA for Data Structure & Algorithms 👣
 - Huge fan of Marvel movies and all sorts of TV(sci-fi, drama, sit-con, etc) 📺
-- 2021 goals: learn more skills in cs and get an internship 👓
+- 2021 goals: learn more skills in cs and get an internship(💔no intern - 2022, April update) 👓
 - Love gym, video games, and dogs 🐕
 
 # Reflections
@@ -28,8 +28,14 @@ Event Reflections
 - [CS Events - 20th Annual CS Night]
 
 # Mentoring
-- First meeting - Sep 29th
+- Sep 29th - Dec 15th, Alyssa Pohahau(Google SDE)
+- Jan 22nd - Now, Ted Bisson(Google SE at VR)
 
-- Second meeting - Oct 11th
-
-- Third meeting - Oct 29th (Fall break, a week off)
+# 2022 Summer To-do list
+- [ ] Go-lang/Python learning
+- [ ] React learning
+- [ ] Daily Leetcode 3 questions
+- [ ] Internship searching...
+- [ ] Search Engine project renewal
+- [ ] Travel & relax
+- [ ] Side projects? (Team or solo)
