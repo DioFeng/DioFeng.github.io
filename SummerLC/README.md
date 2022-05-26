@@ -6,7 +6,18 @@
   - LinkedList, merge sort, divide and conqueue
 - [Happy Number](https://leetcode.com/problems/happy-number/) - LC 202 Easy 
   - Math, set, modular arithmetic
-- [Letter combinations of phone numbers](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - LC 17 Medium 
+- [Letter Combinations Of Phone Numbers](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - LC 17 Medium 
   - Backtracking(recursive), String manipulation
 
 [May 25]
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - LC 191 Easy
+  - Bit manipulation, Bit masking
+
+[May 26]
+
+14 Days Algorithm Challenges(Day 1)
+  - Binary search
+    - [Binary Search](https://leetcode.com/problems/binary-search/) - LC 704 Easy
+    - [First Bad Version](https://leetcode.com/problems/first-bad-version/) - LC 278 Easy
+    - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) - LC 35 Easy
+ 
