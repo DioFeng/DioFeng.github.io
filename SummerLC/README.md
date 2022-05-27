@@ -20,4 +20,10 @@
     - [Binary Search](https://leetcode.com/problems/binary-search/) - LC 704 Easy
     - [First Bad Version](https://leetcode.com/problems/first-bad-version/) - LC 278 Easy
     - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) - LC 35 Easy
+  - Depth-First-Search and Matrix
+    - [Floor Fill](https://leetcode.com/problems/flood-fill/) - LC 733 Easy
+    - [Island Perimeter](https://leetcode.com/problems/island-perimeter/) - LC 463 Easy
+    - [Number of Islands](https://leetcode.com/problems/number-of-islands/) - LC 200 Medium
+    - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - LC 695 Medium
+    
  
