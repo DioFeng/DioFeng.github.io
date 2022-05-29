@@ -14,8 +14,6 @@
   - Bit manipulation, Bit masking
 
 [May 26]
-
-14 Days Algorithm Challenges(Day 1)
   - Binary search
     - [Binary Search](https://leetcode.com/problems/binary-search/) - LC 704 Easy
     - [First Bad Version](https://leetcode.com/problems/first-bad-version/) - LC 278 Easy
@@ -26,4 +24,16 @@
     - [Number of Islands](https://leetcode.com/problems/number-of-islands/) - LC 200 Medium
     - [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - LC 695 Medium
     
- 
+[May 27]
+  - Two Pointers, Array, Math
+    - [Missing Number](https://leetcode.com/problems/missing-number/) - LC 268 Easy
+    - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - LC 977 Easy
+[May 28]
+  - Two Pointers, Array, Math
+    - [Rotate Array](https://leetcode.com/problems/rotate-array/) - LC 189 Medium
+    - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - LC 283 Easy
+[May 29]
+
+[May 30]
+
+[May 31]
