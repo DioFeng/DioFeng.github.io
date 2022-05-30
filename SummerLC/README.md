@@ -35,7 +35,12 @@
     - [Move Zeroes](https://leetcode.com/problems/move-zeroes/) - LC 283 Easy
 
 [May 29]
-
+  - Two pointers
+    - [Reverse String](https://leetcode.com/problems/reverse-string/) - LC 344 Easy
+    - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) - LC 557 Easy
+    - [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - LC 167 Medium
+  - Array, String, Bit manipulation
+    - [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) - LC 318 Medium
 
 [May 30]
 
