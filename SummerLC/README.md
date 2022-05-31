@@ -43,6 +43,7 @@
     - [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) - LC 318 Medium
 
 [May 30]
-
+  - LinkedList
+    - [Middle Of a LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/) - LC 876 Easy
 
 [May 31]
