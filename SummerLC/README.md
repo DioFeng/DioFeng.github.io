@@ -47,3 +47,32 @@
     - [Middle Of a LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/) - LC 876 Easy
 
 [May 31]
+  REST
+  
+[June 1] [50/300]
+  - LinkedList
+    - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - LC 19 Medium
+    - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) - LC 24 Medium
+  - String, Bit manipulation
+    - [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) - LC 1461 Medium
+  - Array, Matrix
+    - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) - LC 867 Easy
+    - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - LC 1480 Easy
+
+
+[June 2]
+
+
+[June 3]
+
+
+[June 4]
+
+
+[June 5]
+
+
+[June 6]
+
+
+[June 7]
