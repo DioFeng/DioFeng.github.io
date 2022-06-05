@@ -59,15 +59,20 @@
     - [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) - LC 867 Easy
     - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - LC 1480 Easy
 
-
 [June 2]
-
+  - Array
+    - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - LC 26 Easy
+    - [Remove Element](https://leetcode.com/problems/remove-element/) - LC 27 Easy
 
 [June 3]
-
+  - Matrix, Design
+    - [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) - LC 304 Medium
 
 [June 4]
-
+  - Sliding Windows, String
+    - [Implement strStr()](https://leetcode.com/problems/implement-strstr/) - LC 28 Easy
+    - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - LC 3 Medium
+    - [Permutation in String](https://leetcode.com/problems/permutation-in-string/) - LC 567 Medium
 
 [June 5]
 
