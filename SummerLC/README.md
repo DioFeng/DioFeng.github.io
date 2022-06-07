@@ -75,9 +75,18 @@
     - [Permutation in String](https://leetcode.com/problems/permutation-in-string/) - LC 567 Medium
 
 [June 5]
-
+  - Binary tree, Recursion
+    - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) - LC 617 Easy
 
 [June 6]
-
+  - LinkedList
+    - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - LC 160 Easy
+    - [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) - LC 116 Medium
+  - Sliding Windows, String
+    - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) - LC 438 Medium
 
 [June 7]
+
+
+
+
