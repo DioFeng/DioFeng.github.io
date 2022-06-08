@@ -86,7 +86,38 @@
     - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) - LC 438 Medium
 
 [June 7]
+  - LinkedList
+    - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - LC 21 Easy
+    - [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/) - LC 206 Easy
+  - Breath-First-Search, matrix
+    - [01 Matrix](https://leetcode.com/problems/01-matrix/) - LC 542 Medium
+    - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - LC 994 Medium
 
+[June 8]
+
+
+
+[June 9]
+
+
+
+[June 10]
+
+
+
+[June 11]
+
+
+
+[June 12]
+
+
+
+[June 13]
+
+
+
+[June 14]
 
 
 
