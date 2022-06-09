@@ -1,3 +1,7 @@
+[Helpful Resources]
+  - [XOR Usage](https://florian.github.io/xor-trick/)
+  - [Summary of Bit Manipulation tricks](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
+
 [May 24]
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - LC 621 Medium 
   - Array, greedy, sorting, math
