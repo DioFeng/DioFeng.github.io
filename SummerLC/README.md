@@ -1,6 +1,7 @@
 [Helpful Resources]
   - [XOR Usage](https://florian.github.io/xor-trick/)
   - [Summary of Bit Manipulation tricks](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
+  - [Backtracking](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
 
 [May 24]
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - LC 621 Medium 
@@ -98,15 +99,19 @@
     - [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) - LC 994 Medium
 
 [June 8]
-
-
+  - Bit manipulation
+    - [Power of Two](https://leetcode.com/problems/power-of-two/) - LC 231 Easy
+  - Backtracking
+    - [Combinations](https://leetcode.com/problems/combinations/) - LC 77 Medium
 
 [June 9]
-
-
+  - Bit manipulation
+    - [Signle Number](https://leetcode.com/problems/single-number/) - LC 136 Easy
+    - [Reverse Bits](https://leetcode.com/problems/reverse-bits/) - LC 190 Easy
 
 [June 10]
-
+  - BackTracking
+    - [Permutations](https://leetcode.com/problems/permutations/) - LC 46 Medium
 
 
 [June 11]
