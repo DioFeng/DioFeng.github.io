@@ -2,6 +2,7 @@
   - [XOR Usage](https://florian.github.io/xor-trick/)
   - [Summary of Bit Manipulation tricks](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
   - [Backtracking](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
+  - [Dynamic Programming_HouseRobber](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.)
 
 [May 24]
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) - LC 621 Medium 
