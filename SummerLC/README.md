@@ -1,4 +1,5 @@
 [Helpful Resources]
+  - [TuringPlanet](https://turingplanet.org/leetcode刷题系列/)
   - [XOR Usage](https://florian.github.io/xor-trick/)
   - [Summary of Bit Manipulation tricks](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
   - [Backtracking](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
@@ -117,7 +118,14 @@
 
 
 [June 11]
-
+  - BackTracking
+    - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) - LC 784 Medium
+  - Dynamic Programming
+    - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - LC 70 Easy
+    - [House Robber](https://leetcode.com/problems/house-robber/) - LC 198 Medium
+    - [Triangle](https://leetcode.com/problems/triangle/) - LC 120 Medium
+  - Array, Two pointers
+    - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) - LC 88 Easy
 
 
 [June 12]
