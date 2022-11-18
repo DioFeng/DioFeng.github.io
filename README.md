@@ -3,8 +3,8 @@ Career Mentoring and Professional Identity Development
 
 # About Me
 **Hi there, I am Dion Feng, or Dio 👋**
-- Junior CS student at USFCA 💻
-- Currently working as a TA for Data Structure & Algorithms 👣
+- Senior CS student at USFCA 💻
+- Working as a TA for Data Structure & Algorithms since 2021 👣
 - Huge fan of Marvel movies and all sorts of TV(sci-fi, drama, sit-con, etc) 📺
 - 2021 goals: learn more skills in cs and get an internship(💔no intern - 2022, April update) 👓
 - Love gym, video games, and dogs 🐕
